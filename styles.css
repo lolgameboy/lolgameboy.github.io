@@ -1,0 +1,31 @@
+.hero-image {
+    background-color: red;
+    height: 200px;
+    font-size: 100px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.intro-text {
+    font-size: 24px;
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.info-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.info-section {
+    width: 30%;
+}
+
+.info-section__title {
+    font-size: 30px;
+}
+
+.info-section__text {
+    font-size: 20px;
+}
