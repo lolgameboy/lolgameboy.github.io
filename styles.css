@@ -29,3 +29,22 @@
 .info-section__text {
     font-size: 20px;
 }
+
+.join-discord-button {
+    background-color: #5865F2;
+    width: 50%;
+    height: min-content;
+    border-radius: 10px;
+    border: 0px;
+    font-size: 40px;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    color:white;
+    margin-top: 20px;
+}
+
+.discord-image {
+    width: 15%;
+    float: right;
+    padding: 5%;
+}
